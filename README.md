@@ -1,5 +1,5 @@
 
-# TEST TOKEN
+# chennai superkings TOKEN
 
 The chennai super kings is an ERC20 compliant cryptocurrency designed for versatility and ease of use in digital transactions. Built on the Ethereum blockchain, it leverages the security and transparency that blockchain technology offers. The  chennai super kings smart contract includes features such as minting, burning, and transferring tokens, making it a robust solution for various applications.
 
